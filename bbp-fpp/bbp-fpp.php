@@ -2,7 +2,7 @@
 /**
 * Plugin Name: bbpress-fpp
 * Plugin URI: https://github.com/sirjohnpenguin/bbpress-fpp
-* Description: Change maximun forums per page in bbPress
+* Description: Change forums per page value in bbPress
 * Version: 1.0.0
 * Author: Nicolás
 * Author URI: https://github.com/sirjohnpenguin/bbpress-fpp
